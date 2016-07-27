@@ -1,5 +1,5 @@
 # STAR 
-# VERSION              2.5.1.a
+# VERSION              2.5.2.a
 # 
 
 FROM      ubuntu:14.04.3 
